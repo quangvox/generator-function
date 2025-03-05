@@ -1,3 +1,7 @@
+
+GENERATOR FUNCTION
+==============
+
 ## 1. Iterator and Iterable?
 
 - Iterators and Iterable are the concepts that allow to iterate over data structures in a standardized way. (`for...of`)
